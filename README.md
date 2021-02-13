@@ -1,5 +1,5 @@
 # Estrutura-de-Dados-I
- Exercícios Programas (EP´s) fornecidos na disciplina de Estrutura de Dados I da EACH-USP.
+ Exercícios Programas (EP´s) fornecidos na disciplina de Estrutura de Dados I da EACH-USP utilizando a linguagem de programação **C**.
 
  Conteúdos abordados em cada EP:
  
@@ -9,4 +9,4 @@
 
     EP 03 - heap máximo e arranjo auxiliar de ponteiros para elementos.
 
-Os Direitos Autorais do matérial aprensentado, Exercícios Programas (EP´s), são dados exclusivamente para o Professor Doutor Luciano Antonio Digiampietri.
+**Os Direitos Autorais do matérial aprensentado, Exercícios Programas (EP´s), são dados exclusivamente para o Professor Doutor Luciano Antonio Digiampietri.**
