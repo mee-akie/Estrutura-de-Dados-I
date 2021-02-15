@@ -1,11 +1,3 @@
-/*********************************************************************/
-/**   ACH2023 - Algoritmos e Estruturas de Dados I                  **/
-/**   EACH-USP - Segundo Semestre de 2020                           **/
-/**    - Prof. Luciano Antonio Digiampietri -                       **/
-/**                                                                 **/
-/**   EP3 - Fila de Prioridade (utilizando heap)                    **/
-/**                                                                 **/
-/*********************************************************************/
 
 #include "filaDePrioridade.h"
 
