@@ -9,4 +9,4 @@
 
     EP 03 - heap máximo e arranjo auxiliar de ponteiros para elementos.
 
-**Os Direitos Autorais do matérial aprensentado, propostas dos Exercícios Programas (EP´s), são dados exclusivamente para o Professor Doutor Luciano Antonio Digiampietri.**
+**Os Direitos Autorais do material aprensentado, propostas dos Exercícios Programas (EP´s), são dados exclusivamente para o Professor Doutor Luciano Antonio Digiampietri.**
