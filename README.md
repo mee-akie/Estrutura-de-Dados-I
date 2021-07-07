@@ -1,5 +1,5 @@
 # Estrutura-de-Dados-I
- Exercícios Programas (EP´s) fornecidos na disciplina de Estrutura de Dados I da EACH-USP utilizando a linguagem de programação **C**.
+ Exercícios Programas (EP´s) utilizando a linguagem de programação **C**.
 
  Conteúdos abordados em cada EP:
  
